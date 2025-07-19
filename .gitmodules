@@ -22,3 +22,6 @@
 [submodule "token-service"]
 	path = token-service
 	url = https://github.com/CopperGroup/token-service-cbh.git
+[submodule "main"]
+	path = main
+	url = https://github.com/CopperGroup/ChatBotHubServer.git
