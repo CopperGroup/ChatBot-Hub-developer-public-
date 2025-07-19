@@ -1,0 +1,24 @@
+[submodule "admin-app"]
+	path = admin-app
+	url = https://github.com/CopperGroup/app-admin-cbh.git
+[submodule "ai"]
+	path = ai
+	url = https://github.com/CopperGroup/ai-service-cbh.git
+[submodule "app"]
+	path = app
+	url = https://github.com/CopperGroup/ChatBotHub.git
+[submodule "payment-service"]
+	path = payment-service
+	url = https://github.com/tymyevhenmpw/payment-service-cbh.git
+[submodule "plan-controller"]
+	path = plan-controller
+	url = https://github.com/tymyevhenmpw/plan-controller-cbh.git
+[submodule "shared-variables-service"]
+	path = shared-variables-service
+	url = https://github.com/CopperGroup/shared-variables-cbh.git
+[submodule "telegram"]
+	path = telegram
+	url = https://github.com/tymyevhenmpw/tymyevhenmpw-ChatBotHubTGBot.git
+[submodule "token-service"]
+	path = token-service
+	url = https://github.com/CopperGroup/token-service-cbh.git
